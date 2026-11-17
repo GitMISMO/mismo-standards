@@ -3,44 +3,76 @@
   "libraryUrl": "https://collaborate.mismo.org/mismolibraries",
   "recent": [
     {
+      "id": "lib-mismo-mortgage-compliance-dataset-faq",
       "name": "MISMO Mortgage Compliance Dataset FAQ",
       "published": "2026-10-12",
-      "url": "https://collaborate.mismo.org/viewdocument/mismo-mortgage-compliance-dataset-faq"
+      "url": "https://www.mismo.org/viewdocument/mismo-mortgage-compliance-dataset-faq"
     },
     {
+      "id": "lib-mismo-compliance-certification-disclaimer-statement",
       "name": "MISMO Compliance Certification Disclaimer Statement",
       "published": "2026-10-12",
-      "url": "https://collaborate.mismo.org/viewdocument/mismo-compliance-certification-disclaimer-statement"
+      "url": "https://www.mismo.org/viewdocument/mismo-compliance-certification-disclaimer-statement"
     },
     {
+      "id": "lib-mismo-eclosing-system-certification-requirements-v1",
       "name": "MISMO eClosing System Certification Requirements v1",
       "published": "2026-10-12",
-      "url": "https://collaborate.mismo.org/viewdocument/mismo-eclosing-system-certification-requirements-v1"
+      "url": "https://www.mismo.org/viewdocument/mismo-eclosing-system-certification-requirements-v1"
     },
     {
+      "id": "lib-executive-summary-mcd-workshop-at-the-mismo-winter-summit",
       "name": "Executive Summary - MCD Workshop at the MISMO Winter Summit",
       "published": "2026-10-12",
-      "url": "https://collaborate.mismo.org/viewdocument/executive-summary-mcd-workshop-at-the-mismo-winter-summit"
+      "url": "https://www.mismo.org/viewdocument/executive-summary-mcd-workshop-at-the-mismo-winter-summit"
     },
     {
+      "id": "lib-mismo-mortgage-compliance-dataset-backgrounder",
       "name": "MISMO Mortgage Compliance Dataset Backgrounder",
       "published": "2026-10-12",
-      "url": "https://collaborate.mismo.org/viewdocument/mismo-mortgage-compliance-dataset-backgrounder"
+      "url": "https://www.mismo.org/viewdocument/mismo-mortgage-compliance-dataset-backgrounder"
     },
     {
+      "id": "lib-the-mortgage-compliance-dataset-an-industry-brief",
       "name": "The Mortgage Compliance Dataset - An Industry Brief",
       "published": "2026-10-12",
-      "url": "https://collaborate.mismo.org/viewdocument/the-mortgage-compliance-dataset-an-industry-brief"
+      "url": "https://www.mismo.org/viewdocument/the-mortgage-compliance-dataset-an-industry-brief"
     },
     {
+      "id": "lib-automated-valuation-model-testing-guidance-and-best-practices",
       "name": "Automated Valuation Model Testing Guidance and Best Practices",
       "published": "2026-08-19",
-      "url": "https://collaborate.mismo.org/viewdocument/automated-valuation-model-testing-guidance-and-best-practices"
+      "url": "https://www.mismo.org/viewdocument/automated-valuation-model-testing-guidance-and-best-practices"
     },
     {
-      "name": "Fee Modernization White Paper",
-      "published": "2026-03-16",
-      "url": "https://collaborate.mismo.org/viewdocument/fee-modernization-white-paper"
+      "id": "WR2024_28",
+      "name": "SMART Doc® 1.02 iGuide Maintenance Updates 2025.01",
+      "published": "2026-07-16",
+      "url": "https://www.mismo.org/viewdocument/smart-doc-version-102-implementati"
+    },
+    {
+      "id": "WR2024_09",
+      "name": "eClosing ROI White Paper Refresh",
+      "published": "2026-07-09",
+      "url": "https://www.mismo.org/viewdocument/eclosing-white-paper"
+    },
+    {
+      "id": "WR2025_02_02",
+      "name": "MI Implementation Guide_3.4 XML Annual Maintenance - Part B",
+      "published": "2026-07-07",
+      "url": "https://www.mismo.org/viewdocument/mi-i-guide-for-v34-posted-for-memb"
+    },
+    {
+      "id": "WR2025_11",
+      "name": "Business Glossary",
+      "published": "2026-06-17",
+      "url": "https://www.mismo.org/viewdocument/business-glossary?LibraryFolderKey=c8ff77d4-0ae4-4901-b70e-687e4c1ac938&DefaultView=folder"
+    },
+    {
+      "id": "WR2025_14_02",
+      "name": "Property and Valuation Services Procurement Dataset",
+      "published": "2026-06-09",
+      "url": "https://www.mismo.org/viewdocument/appraisal-procurement-dataset-speci-1"
     }
   ],
   "commentPeriods": [
