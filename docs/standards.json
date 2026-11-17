@@ -3,6 +3,13 @@
   "libraryUrl": "https://collaborate.mismo.org/mismolibraries",
   "recent": [
     {
+      "id": "WR2024_18_03",
+      "name": "Automated Valuation Model Testing Guidance and Best Practices",
+      "published": "2026-11-03",
+      "url": "https://www.mismo.org/viewdocument/automated-valuation-model-testing-guidance-and-best-practices",
+      "memberOnly": true
+    },
+    {
       "id": "lib-mismo-mortgage-compliance-dataset-faq",
       "name": "MISMO Mortgage Compliance Dataset FAQ",
       "published": "2026-10-12",
@@ -37,12 +44,6 @@
       "name": "The Mortgage Compliance Dataset - An Industry Brief",
       "published": "2026-10-12",
       "url": "https://www.mismo.org/viewdocument/the-mortgage-compliance-dataset-an-industry-brief"
-    },
-    {
-      "id": "lib-automated-valuation-model-testing-guidance-and-best-practices",
-      "name": "Automated Valuation Model Testing Guidance and Best Practices",
-      "published": "2026-08-19",
-      "url": "https://www.mismo.org/viewdocument/automated-valuation-model-testing-guidance-and-best-practices"
     },
     {
       "id": "WR2024_28",
