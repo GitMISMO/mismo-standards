@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16",
+  "updated": "2026-11-17",
   "libraryUrl": "https://collaborate.mismo.org/mismolibraries",
   "recent": [
     {
@@ -8,42 +8,6 @@
       "published": "2026-11-03",
       "url": "https://www.mismo.org/viewdocument/automated-valuation-model-testing-guidance-and-best-practices",
       "memberOnly": true
-    },
-    {
-      "id": "lib-mismo-mortgage-compliance-dataset-faq",
-      "name": "MISMO Mortgage Compliance Dataset FAQ",
-      "published": "2026-10-12",
-      "url": "https://www.mismo.org/viewdocument/mismo-mortgage-compliance-dataset-faq"
-    },
-    {
-      "id": "lib-mismo-compliance-certification-disclaimer-statement",
-      "name": "MISMO Compliance Certification Disclaimer Statement",
-      "published": "2026-10-12",
-      "url": "https://www.mismo.org/viewdocument/mismo-compliance-certification-disclaimer-statement"
-    },
-    {
-      "id": "lib-mismo-eclosing-system-certification-requirements-v1",
-      "name": "MISMO eClosing System Certification Requirements v1",
-      "published": "2026-10-12",
-      "url": "https://www.mismo.org/viewdocument/mismo-eclosing-system-certification-requirements-v1"
-    },
-    {
-      "id": "lib-executive-summary-mcd-workshop-at-the-mismo-winter-summit",
-      "name": "Executive Summary - MCD Workshop at the MISMO Winter Summit",
-      "published": "2026-10-12",
-      "url": "https://www.mismo.org/viewdocument/executive-summary-mcd-workshop-at-the-mismo-winter-summit"
-    },
-    {
-      "id": "lib-mismo-mortgage-compliance-dataset-backgrounder",
-      "name": "MISMO Mortgage Compliance Dataset Backgrounder",
-      "published": "2026-10-12",
-      "url": "https://www.mismo.org/viewdocument/mismo-mortgage-compliance-dataset-backgrounder"
-    },
-    {
-      "id": "lib-the-mortgage-compliance-dataset-an-industry-brief",
-      "name": "The Mortgage Compliance Dataset - An Industry Brief",
-      "published": "2026-10-12",
-      "url": "https://www.mismo.org/viewdocument/the-mortgage-compliance-dataset-an-industry-brief"
     },
     {
       "id": "WR2024_28",
@@ -74,6 +38,42 @@
       "name": "Property and Valuation Services Procurement Dataset",
       "published": "2026-06-09",
       "url": "https://www.mismo.org/viewdocument/appraisal-procurement-dataset-speci-1"
+    },
+    {
+      "id": "WR2025_17",
+      "name": "MISMO Version 3.6.3 Reference Model",
+      "published": "2026-06-04",
+      "url": "https://www.mismo.org/viewdocument/mismo-version-3-6-3-reference-model"
+    },
+    {
+      "id": "WR2023_33_03",
+      "name": "MISMO Fee Modernization",
+      "published": "2026-05-28",
+      "url": "https://www.mismo.org/viewdocument/fee-modernization-white-paper"
+    },
+    {
+      "id": "WR2023_05_A",
+      "name": "BPM + Reference Model Toolkit",
+      "published": "2026-05-06",
+      "url": "https://www.mismo.org/viewdocument/bpm-reference-model-toolkit"
+    },
+    {
+      "id": "WR2023_20_02",
+      "name": "VA Form 26-1820 - Report and Certification of Loan Disbursement",
+      "published": "2026-03-26",
+      "url": "https://www.mismo.org/viewdocument/va-form-26-1820-report-and-certifi"
+    },
+    {
+      "id": "WR2025_09_02",
+      "name": "Housing Counseling Dataset Specification v1.1",
+      "published": "2026-03-26",
+      "url": "https://www.mismo.org/viewdocument/housing-counseling-dataset-specific"
+    },
+    {
+      "id": "WR2022_07_02_A",
+      "name": "Title and Closing Dataset Specifications",
+      "published": "2026-03-24",
+      "url": "https://www.mismo.org/viewdocument/title-and-settlement-as-data-closi"
     }
   ],
   "commentPeriods": [
