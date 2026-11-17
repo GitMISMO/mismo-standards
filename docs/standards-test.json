@@ -19,54 +19,6 @@
       "licence": "TEST ONLY: Public Work Product",
       "nonMemberAccess": "https://example.org/files/Sample%20Final%20v1.pdf",
       "fileName": "Sample Final v1.pdf"
-    },
-    {
-      "id": "lib-mismo-mortgage-compliance-dataset-faq",
-      "name": "MISMO Mortgage Compliance Dataset FAQ",
-      "published": "2026-10-12",
-      "url": "https://www.mismo.org/viewdocument/mismo-mortgage-compliance-dataset-faq"
-    },
-    {
-      "id": "lib-mismo-compliance-certification-disclaimer-statement",
-      "name": "MISMO Compliance Certification Disclaimer Statement",
-      "published": "2026-10-12",
-      "url": "https://www.mismo.org/viewdocument/mismo-compliance-certification-disclaimer-statement"
-    },
-    {
-      "id": "lib-mismo-eclosing-system-certification-requirements-v1",
-      "name": "MISMO eClosing System Certification Requirements v1",
-      "published": "2026-10-12",
-      "url": "https://www.mismo.org/viewdocument/mismo-eclosing-system-certification-requirements-v1"
-    },
-    {
-      "id": "lib-executive-summary-mcd-workshop-at-the-mismo-winter-summit",
-      "name": "Executive Summary - MCD Workshop at the MISMO Winter Summit",
-      "published": "2026-10-12",
-      "url": "https://www.mismo.org/viewdocument/executive-summary-mcd-workshop-at-the-mismo-winter-summit"
-    },
-    {
-      "id": "lib-mismo-mortgage-compliance-dataset-backgrounder",
-      "name": "MISMO Mortgage Compliance Dataset Backgrounder",
-      "published": "2026-10-12",
-      "url": "https://www.mismo.org/viewdocument/mismo-mortgage-compliance-dataset-backgrounder"
-    },
-    {
-      "id": "lib-the-mortgage-compliance-dataset-an-industry-brief",
-      "name": "The Mortgage Compliance Dataset - An Industry Brief",
-      "published": "2026-10-12",
-      "url": "https://www.mismo.org/viewdocument/the-mortgage-compliance-dataset-an-industry-brief"
-    },
-    {
-      "id": "lib-automated-valuation-model-testing-guidance-and-best-practices",
-      "name": "Automated Valuation Model Testing Guidance and Best Practices",
-      "published": "2026-08-19",
-      "url": "https://www.mismo.org/viewdocument/automated-valuation-model-testing-guidance-and-best-practices"
-    },
-    {
-      "id": "lib-fee-modernization-white-paper",
-      "name": "Fee Modernization White Paper",
-      "published": "2026-03-16",
-      "url": "https://www.mismo.org/viewdocument/fee-modernization-white-paper"
     }
   ],
   "commentPeriods": [
