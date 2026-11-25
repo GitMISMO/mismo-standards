@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20",
+  "updated": "2026-11-25",
   "libraryUrl": "https://collaborate.mismo.org/mismolibraries",
   "recent": [
     {
@@ -106,6 +106,17 @@
       "wr": "WR2025_22",
       "workgroup": "Title and Closing Docs to Data DWG",
       "commentForm": "https://resources.mismo.org/forms/comment/?wr=WR2025_22",
+      "nonMemberAccess": "",
+      "nonMemberLicense": "Proposed (open for comment)"
+    },
+    {
+      "id": "WR2026_01",
+      "name": "Minor Reference Model Release v3.6.4",
+      "opens": "2026-11-25",
+      "closes": "2026-12-25",
+      "wr": "WR2026_01",
+      "workgroup": "Architecture Workgroup",
+      "commentForm": "https://resources.mismo.org/forms/comment/?wr=WR2026_01",
       "nonMemberAccess": "",
       "nonMemberLicense": "Proposed (open for comment)"
     }
